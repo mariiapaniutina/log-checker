@@ -1,0 +1,17 @@
+{
+  "name": "log-checker",
+  "version": "1.0.0",
+  "description": "JS logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariia Paniutina <mpaniutina@linkedin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
